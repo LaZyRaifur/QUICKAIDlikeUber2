@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178400723581",
+    "firebase_url": "https://quickaid-53720.firebaseio.com",
+    "project_id": "quickaid-53720",
+    "storage_bucket": "quickaid-53720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178400723581:android:2be2f19046ebec47",
+        "android_client_info": {
+          "package_name": "com.example.webforest.quickaidlikeuber2nd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178400723581-o7tg1e7v21tiemobci5toe5tfglb0sqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webforest.quickaidlikeuber2nd",
+            "certificate_hash": "799d62ed00c22c3a83f21f795d5f894c8c07bfa8"
+          }
+        },
+        {
+          "client_id": "178400723581-msklnrj3iniefgg5b705u07paqgdj60l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXixCQl49SbgdTuJvvz59U2OZt3N_5qT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178400723581-msklnrj3iniefgg5b705u07paqgdj60l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
